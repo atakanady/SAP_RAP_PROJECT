@@ -1,4 +1,4 @@
-# Create a Travel App with SAP Fiori Elements
+# SAP Fiori Elements ile Seyahat Uygulaması Oluşturun
 
 SAP Business Technology Platform deneme hesabınızı ve SAP Business Application Studio'yu kullanarak bir liste raporu nesne sayfası uygulaması oluşturun. Uygulama, ABAP Geliştirme Araçları ortamında SAP ABAP RESTful Uygulama Programlama Modeli (RAP) ile oluşturulmuş bir OData V4 hizmetini temel alır. Kullanıcı arabirimi ek açıklamalarını kullanarak ve Esnek Programlama Modelinden yararlanarak kullanıcı arabirimini ihtiyaçlarınıza göre nasıl ayarlayacağınızı öğrenin.
 
