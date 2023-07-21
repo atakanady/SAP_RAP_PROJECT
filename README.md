@@ -10,9 +10,6 @@ Bknz: [Create a Travel App with SAP Fiori Elements Based on OData V4 RAP Service
 > cd app/travellist
 > npm start
 ```
-
-![](assets/app.png)
-
 ## BTP ABAP HAVUZUNA YERLEŞTİRME İŞLEMİ
 
 - Fiori Element uygulamasını BTP ABAP Deposuna dağıtın
