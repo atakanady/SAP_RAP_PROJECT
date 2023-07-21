@@ -7,7 +7,6 @@
 |**Generation Platform**<br>Visual Studio Code|
 |**Floorplan Used**<br>List Report Object Page V4|
 |**Service Type**<br>SAP System (ABAP Environment on SAP Business Technology Platform)|
-|**Service URL**<br>https://cb629c8e-9ddd-4225-b4db-603ce09635fb.abap.us10.hana.ondemand.com/sap/opu/odata4/sap/zui_fe_travel_002306_o4/srvd/sap/zui_fe_travel_002306_o4/0001/
 |**Module Name**<br>travellist|
 |**Application Title**<br>Travel List|
 |**UI5 Version**<br>1.108.10|
