@@ -1,8 +1,6 @@
 ## Application Details
 |               |
 | ------------- |
-|**App Generator**<br>@sap/generator-fiori-elements|
-|**App Generator Version**<br>1.7.5|
 |**Generation Platform**<br>Visual Studio Code|
 |**Floorplan Used**<br>List Report Object Page V4|
 |**Service Type**<br>SAP System (ABAP Environment on SAP Business Technology Platform)|
