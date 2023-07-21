@@ -1,36 +1,36 @@
 # Create a Travel App with SAP Fiori Elements
 
-Create a list report object page application using your SAP Business Technology Platform trial account and SAP Business Application Studio. The application is based on an OData V4 service built with the SAP ABAP RESTful Application Programming Model (RAP) within the ABAP Development Tools environment. Learn how to adjust the UI to your needs by using UI annotations and leveraging the Flexible Programming Model.
+SAP Business Technology Platform deneme hesabınızı ve SAP Business Application Studio'yu kullanarak bir liste raporu nesne sayfası uygulaması oluşturun. Uygulama, ABAP Geliştirme Araçları ortamında SAP ABAP RESTful Uygulama Programlama Modeli (RAP) ile oluşturulmuş bir OData V4 hizmetini temel alır. Kullanıcı arabirimi ek açıklamalarını kullanarak ve Esnek Programlama Modelinden yararlanarak kullanıcı arabirimini ihtiyaçlarınıza göre nasıl ayarlayacağınızı öğrenin.
 
-See: [Create a Travel App with SAP Fiori Elements Based on OData V4 RAP Service](https://developers.sap.com/group.fiori-tools-odata-v4-travel.html)
+Bknz: [Create a Travel App with SAP Fiori Elements Based on OData V4 RAP Service](https://developers.sap.com/group.fiori-tools-odata-v4-travel.html)
 
-- Run the app
+- Uygulamayı çalıştırın
 
-```shell
+```shell kod
 > cd app/travellist
 > npm start
 ```
 
 ![](assets/app.png)
 
-## DEPLOYMENT TO BTP ABAP REPOSITORY
+## BTP ABAP HAVUZUNA YERLEŞTİRME İŞLEMİ
 
-- Deploy the Fiori Element app to BTP ABAP Repository
+- Fiori Element uygulamasını BTP ABAP Deposuna dağıtın
 
-```shell
+```shell kodu
 > cd app/travellist
 > npm run deploy
 ```
 
-See [Create a SAP Fiori App in Visual Studio Code and Deploy it to SAP BTP, ABAP Environment](https://developers.sap.com/tutorials/abap-environment-vs-code.html)
+Bknz [Create a SAP Fiori App in Visual Studio Code and Deploy it to SAP BTP, ABAP Environment](https://developers.sap.com/tutorials/abap-environment-vs-code.html)
 
-## DEPLOYMENT TO HTML5 APP REPOSITORY
+## HTML5 UYGULAMA DEPOSUNA DAĞITIM
 
-- Deploy the Fiori Element app to HTML5 Application Repository
+- Fiori Element uygulamasını HTML5 Uygulama Havuzuna dağıtın
 
-```shell
+```shell kodu
 > npm run build
 > npm run deploy
 ```
 
-See [Create a SAP Fiori App and Deploy it to SAP BTP, Cloud Foundry environment](https://developers.sap.com/tutorials/abap-environment-deploy-cf.html)
+Bknz [Create a SAP Fiori App and Deploy it to SAP BTP, Cloud Foundry environment](https://developers.sap.com/tutorials/abap-environment-deploy-cf.html)
