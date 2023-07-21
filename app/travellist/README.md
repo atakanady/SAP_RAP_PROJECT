@@ -1,7 +1,6 @@
 ## Application Details
 |               |
 | ------------- |
-|**Generation Platform**<br>Visual Studio Code|
 |**Floorplan Used**<br>List Report Object Page V4|
 |**Service Type**<br>SAP System (ABAP Environment on SAP Business Technology Platform)|
 |**Module Name**<br>travellist|
